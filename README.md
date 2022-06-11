@@ -13,3 +13,4 @@ The syntax of the plugin is as follows:
 
 **typewriter "this is very slow" 500** - Displays the text with half a second delay per character.
 
+![This is an example image](woah.gif)
