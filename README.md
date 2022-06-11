@@ -5,4 +5,9 @@ The syntax of the plugin is as follows:
 
 **typewriter.exe {"quoted string"} {sleep time in ms}**
 
+Here are some examples:
+
+**typewriter "hello, world!" 100** - Displays hello world with a 1/10th of a second delay per character.
+
+**typewriter "this is very slow" 500** - Displays the text with half a second delay per character.
 
