@@ -1,3 +1,5 @@
+@echo off
+color 09
 echo This is a demo of the typewriter plugin.
 pause
 typewriter "This should display relatively quickly" 50
