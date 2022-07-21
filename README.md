@@ -44,4 +44,7 @@ exit</code></pre>
 This will demonstrate diffrent ways to use typewriter plugin
 ![Animation](https://user-images.githubusercontent.com/82807654/177024378-78e45476-8b56-4d93-8856-bd0c6d058257.gif)
 
+**Video-**https://www.youtube.com/watch?v=BsTxP5uI4Ps
+
+**Article-**https://batch-man.com/typewriter/
 
